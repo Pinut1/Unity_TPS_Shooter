@@ -159,18 +159,18 @@ MonoBehaviour:
   m_Settings:
     m_SettingsList:
       m_List:
-      - rid: 4248394840274632704
-      - rid: 4248394840274632705
-      - rid: 4248394840274632706
-      - rid: 4248394840274632707
-      - rid: 4248394840274632708
-      - rid: 4248394840274632709
-      - rid: 4248394840274632710
-      - rid: 4248394840274632711
-      - rid: 4248394840274632712
-      - rid: 4248394840274632713
-      - rid: 4248394840274632714
-      - rid: 4248394840274632715
+      - rid: 4248394865614258176
+      - rid: 4248394865614258177
+      - rid: 4248394865614258178
+      - rid: 4248394865614258179
+      - rid: 4248394865614258180
+      - rid: 4248394865614258181
+      - rid: 4248394865614258182
+      - rid: 4248394865614258183
+      - rid: 4248394865614258184
+      - rid: 4248394865614258185
+      - rid: 4248394865614258186
+      - rid: 4248394865614258187
     m_RuntimeSettings:
       m_List: []
   renderingLayerNames:
@@ -217,20 +217,20 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 4248394840274632704
+    - rid: 4248394865614258176
       type: {class: HDRenderPipelineEditorAssets, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_DefaultSettingsVolumeProfile: {fileID: 0}
         m_LookDevDefaultLookDevVolumeProfile: {fileID: 0}
         m_DefaultDiffusionProfileSettingsList: []
-    - rid: 4248394840274632705
+    - rid: 4248394865614258177
       type: {class: ShaderStrippingSetting, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Core.Runtime}
       data:
         m_Version: 0
         m_ExportShaderVariants: 1
         m_ShaderVariantLogLevel: 0
         m_StripRuntimeDebugShaders: 1
-    - rid: 4248394840274632706
+    - rid: 4248394865614258178
       type: {class: RenderingPathFrameSettings, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Version: 0
@@ -282,38 +282,38 @@ MonoBehaviour:
           sssCustomDownsampleSteps: 0
           msaaMode: 1
           materialQuality: 0
-    - rid: 4248394840274632707
+    - rid: 4248394865614258179
       type: {class: DiffusionProfileDefaultSettings, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Version: 0
         m_AutoRegisterDiffusionProfiles: 0
-    - rid: 4248394840274632708
+    - rid: 4248394865614258180
       type: {class: SpecularFadeSettings, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Version: 0
         m_SpecularFade: 0
-    - rid: 4248394840274632709
+    - rid: 4248394865614258181
       type: {class: ColorGradingSettings, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Version: 0
         m_ColorGradingSpace: 0
-    - rid: 4248394840274632710
+    - rid: 4248394865614258182
       type: {class: LensSettings, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Version: 0
         m_LensAttenuationMode: 0
-    - rid: 4248394840274632711
+    - rid: 4248394865614258183
       type: {class: AnalyticDerivativeSettings, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Version: 0
         m_AnalyticDerivativeEmulation: 0
         m_AnalyticDerivativeDebugOutput: 0
-    - rid: 4248394840274632712
+    - rid: 4248394865614258184
       type: {class: RenderGraphSettings, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Version: 0
         m_DynamicRenderPassCulling: 0
-    - rid: 4248394840274632713
+    - rid: 4248394865614258185
       type: {class: CustomPostProcessOrdersSettings, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Version: 0
@@ -332,12 +332,12 @@ MonoBehaviour:
         m_AfterPostProcessCustomPostProcesses:
           m_InjectionPoint: 2
           m_CustomPostProcessTypesAsString: []
-    - rid: 4248394840274632714
+    - rid: 4248394865614258186
       type: {class: HDRPDefaultVolumeProfileSettings, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Version: 0
         m_VolumeProfile: {fileID: 11400000, guid: 14b392ee213d25a48b1feddbd9f5a9be, type: 2}
-    - rid: 4248394840274632715
+    - rid: 4248394865614258187
       type: {class: LookDevVolumeProfileSettings, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Version: 0
